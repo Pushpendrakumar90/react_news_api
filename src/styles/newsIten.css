@@ -1,0 +1,30 @@
+.card-text{
+    font-size: smaller;
+    line-height: 1.5;
+    margin: 4px;
+    font-family: cursive;
+    /* z-index: -1; */
+
+}
+.card{
+        padding: 7px;
+        margin: 7px;
+        height: 360px;
+        overflow: hidden;
+}
+/* #hover:hover{
+    box-shadow: 0 10px 10px 2px  green;
+} */
+.card:hover{
+     box-shadow: 0 10px 10px 2px  green  !important;
+     
+}
+
+/* .btn:hover{
+    text-decoration: underline;
+} */
+
+.card-title{
+    color: green;
+
+}
